@@ -13,10 +13,14 @@ export const Header = () => {
   return (
     <nav className="navbar navbar-expand-md fixed-top bg-primary navbar-dark">
         <div className="container-fluid">
-            <a className="navbar-brand" href="#">
-            <i className="bi bi-film"></i>
-                MovieHUT
-            </a>
+                        
+            <div className="d-flex gap-1 me-5 h4">
+              <NavLink to="/" className="nav-link">
+                <i className="bi bi-film"></i>
+                  MovieHUT
+              </NavLink>
+            </div>
+            
 
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
               <span className="navbar-toggler-icon"></span>
