@@ -35,3 +35,10 @@ Currently, two official plugins are available:
 - run `npm run test:report:json:pretty:compact:sort` to run Jest
 - run `npm run test:report:html:pretty:compact:sort` to run Jest
 - run `npm run test:report:xml:pretty:compact:sort` to run Jest
+
+## Home Page
+<img src="./src/assets/MovieHut1.png" />
+<img src="./src/assets/MovieHut2.png" />
+<img src="./src/assets/MovieHut3.png" />
+<img src="./src/assets/MovieHut4.png" />
+<img src="./src/assets/MovieHut5.png" />
